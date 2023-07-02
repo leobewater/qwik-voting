@@ -1,3 +1,11 @@
+Video: https://www.youtube.com/watch?v=NjKOAbWqOM4&ab_channel=JackHerrington
+
+```
+> pnmp create qwik@latest
+// add prisma
+> pnpm run qwik add prisma
+```
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
